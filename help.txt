@@ -1,0 +1,21 @@
+
+
+				HOW TO PLAY
+
+		Player 1				Player 2
+
+
+ Move: 	  	   W					   ^
+       	       A   S   D			       <   v   >
+
+ Shoot:		   G					 ENTER
+
+	- In the board of each Player, there are 2 ships and every ship
+	is made by 3 cells continuously (vertical or horizontal). 
+	- Each player use the navigation keys above to move the cursor
+	on the other's board and chose the cell to shoot.
+	- Using the [G] and [ENTER] to shoot.
+	- The Player who destroy both ships of the other will become the
+	winner.
+
+Press [ENTER] to back ...
